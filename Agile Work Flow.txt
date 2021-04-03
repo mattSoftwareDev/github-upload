@@ -1,0 +1,55 @@
+-------------------------------------------------
+- Agile Work Flow
+-------------------------------------------------
+
+>> Weekly Goal?
+
+
+>> Daily Standup
+Check calendar.
+Review work backlogs.
+What work was completed yesterday?
+What is the primary goal for today?
+Any blockers?
+
+
+>> Work/Break times (minutes): 45/15
+
+
+>> How to set: Work in Progress Limits
+
+
+>> Weekly Retrospective
+What is working well?
+What is not working well?
+What should I try next time?
+(Functionality is coming) Number of Story Points completed each week (Burn Up Chart) (Week|Total Pts|Completed Pts)
+
+-------------------------------------------------
+
+...Story Format
+As a <role>
+I want to <specific task>
+So that <reason/supported workflow area>
+
+...INVEST criteria for user stories:
+Independent
+Negotiable
+Valuable
+Estimate-able
+Small
+Testable
+
+...Epics are 'story arcs' that captures a complete workflow, not deliverable until all related stories are complete, & can cater to multiple users.
+
+...Themes: Stories are related (or all serve a similar goal), do not need to encapsulate a workflow, & can be delivered independently of one another.
+
+...Acceptance Criteria
+Given...
+When...
+Then...
+
+...
+Writing criteria is the first step to working on the story
+Agree on criteria before coding begins
+Use criteria as the basis for test cases
